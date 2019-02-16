@@ -1,0 +1,7 @@
+name: deep-learning-introduction
+dependencies:
+  - python=3.6
+  - tensorflow
+  - pip:
+    - keras
+    - matplotlib
