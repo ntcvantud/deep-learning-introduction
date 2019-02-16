@@ -1,7 +1,7 @@
 name: deep-learning-introduction
+channels:
+  - conda-forge
 dependencies:
   - python=3.6
   - tensorflow
-  - pip:
-    - keras
-    - matplotlib
+  - matplotlib
