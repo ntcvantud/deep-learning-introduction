@@ -5,5 +5,5 @@ dependencies:
   - python=3.6
   - tensorflow
   - matplotlib
-  - gym
+  - git+https://github.com/openai/gym.git@v0.12.1#egg=gym
   - tqdm
